@@ -4,4 +4,4 @@ recipe
  [Kodluyoruz](https://app.patika.dev)
 <hr>
 
-![tarif](https://user-images.githubusercontent.com/19255601/196800262-913c2ca7-8e23-4d4b-957a-8d60e2a1d908.PNG)
+![tarif1](https://user-images.githubusercontent.com/19255601/196800393-2e9a71b5-b13a-4dfa-86f6-0f74ea2e8984.PNG)
